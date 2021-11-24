@@ -1,4 +1,4 @@
-# Musical Feature
+# Musical Feature Ontology
 
 The Musical Feature ontology module of the [Polifonia ontology network](https://github.com/polifonia-project/ontology-network) provides a comprehensive and sound schema to describe a musical object (a score, an audio track, etc.) in regard to the musical properties that can be objectively attributed or subjectively identified from it. 
 <img width="1001" alt="mf-brainstorming" src="https://user-images.githubusercontent.com/44606644/140661794-254b41bf-ce3b-44f6-82be-7c69da4c336d.png">
